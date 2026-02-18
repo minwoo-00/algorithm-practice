@@ -2,6 +2,8 @@
 
 [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42860) 
 
+[참고 설명 링크](https://jhzlo.tistory.com/71)
+
 ### 성능 요약
 
 메모리: 85.2 MB, 시간: 0.07 ms
